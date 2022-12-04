@@ -43,3 +43,4 @@ Ce rôle est légèrement similaire à celui de l'admin, sa différence est dans
 
   L'annotation *@Secured* designe les personnes ayant un des roles mentionees ce qui lui permettra d'utiliser l'API ou non dans le cas contraire, dans notre cas, on donne l'acces a tout les utilisateurs ayant n'importe quel role des 3 etant donne que la gestion des droits ce fait dans le controller .
   
+LIEN POUR LA DEMONSTRATION : https://www.youtube.com/watch?v=kWTgZ7RhT1I
